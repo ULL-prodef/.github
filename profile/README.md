@@ -8,3 +8,7 @@ Prodef is a tool that allows the definition of combinatorial optimization proble
 ## Web Page
 
 * [ProDef Web page](https://ull-prodef.github.io/)
+
+## Introduction to ProDef
+
+* [Tutorials at YouTube by Daniel González](https://www.youtube.com/playlist?list=PLUnjM_vNlF29DqxRa9Lj6h37mE5VYOOKM) (Spanish)
