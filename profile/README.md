@@ -7,7 +7,9 @@ Prodef is a tool that allows the definition of combinatorial optimization proble
 
 ## Web Page
 
-* [ProDef Web page](https://ull-prodef.github.io/)
+* [ProDef Web page http://prodef.pro/](http://prodef.pro/) 
+* [Prodef: meta-modelado de problemas de optimización combinatoria](https://riull.ull.es/xmlui/handle/915/20601) by Garcia Perez, Andres Calimero. 2020
+* [Prodef: diseño, implementación y experimentación con nuevos resolutores](https://riull.ull.es/xmlui/handle/915/26852) by Ordoñez Morales, Miguel. 2022
 
 ## ProDef for Future Prodef Developers
 
